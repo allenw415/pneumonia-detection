@@ -1,2 +1,4 @@
-models/
+models/alexnet_model_state_dict.pth
+models/resnet_model_state_dict.pth
+models/vgg16_model_state_dict.pth
 final_project/
